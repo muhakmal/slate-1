@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: AstraPay API Merchant
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -21,11 +21,16 @@ code_clipboard: true
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Dokumen API ini merupakan dokumen yang dapat digunakan oleh pihak merchant yang mengambil kerja sama dengan ASTRAPAY dalam proses integrasi secara sistem. Tujuan akhir dari dokumen ini adalah menjadikan ASTRAPAY sebagai metode pembayaran dalam melakukan transaksi di merchant. Dokumen dapat digunakan oleh tim fungsional dan tim teknis untuk memahami desain yang akan dibangun.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+### Glossarium
 
-This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
+|Column1  |Column2  |Column3  |
+|---------|---------|---------|
+|Row1     |         |         |
+|Row2     |         |         |
+|Row3     |         |         |
+
 
 # Authentication
 
